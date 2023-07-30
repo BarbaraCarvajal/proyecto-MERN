@@ -12,7 +12,7 @@ const navLinks = [
     },
     {
         name: 'Buscar Dev',
-        path: '/developers'
+        path: '/developer'
     },
     {
         name: 'Servicios',
